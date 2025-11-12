@@ -4,7 +4,7 @@ A **powerful, interactive web-based gradient wallpaper creator** that lets you d
 
 ![Preview](preview.png)
 
-> **Live Demo**: [Open in Browser](https://snowbellsan.github.io/gradient-wallpaper-generator-pro) *(Replace with your actual GitHub Pages URL)*
+> **Live Demo**: [Open in Browser](https://snowbellsan.github.io/Gradient-Wallpaper-Generator-Pro) *(Replace with your actual GitHub Pages URL)*
 
 ---
 
@@ -80,7 +80,7 @@ A **powerful, interactive web-based gradient wallpaper creator** that lets you d
 2. Go to **Settings > Pages**
 3. Set branch to `main` and folder to `/root`
 4. Your site will be live at:  
-   `https://snowbellsan.github.io/gradient-wallpaper-generator-pro`
+   `https://snowbellsan.github.io/Gradient-Wallpaper-Generator-Pro`
 
 ---
 
@@ -100,6 +100,15 @@ Just fork, modify, and submit a pull request.
 ## 📄 License
 
 [MIT License](LICENSE) – Free to use, modify, and distribute.
+
+---
+
+## Author
+
+**Jack**    ( https://x.com/Jackpot_jack )  
+*Simulator Archaeologist | AI Conductor | One-sentence Philosopher*
+
+---
 
 ---
 
