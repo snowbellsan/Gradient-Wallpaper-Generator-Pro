@@ -5,7 +5,7 @@ A **powerful, interactive web-based gradient wallpaper creator** that lets you d
 ![Preview](preview.png)
 
 > **Live Demo**: [Open in Browser](https://snowbellsan.github.io/Gradient-Wallpaper-Generator-Pro) *(Replace with your actual GitHub Pages URL)*
-
+　
 ---
 
 ## ✨ Features
